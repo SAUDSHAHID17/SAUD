@@ -41,7 +41,7 @@ To become a skilled software developer, build useful digital products, and contr
 
 ### 🤝 Let's Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/SAUDSHAHID17/SAUD
 - LinkedIn: YOUR_LINKEDIN_PROFILE
 
 ---
